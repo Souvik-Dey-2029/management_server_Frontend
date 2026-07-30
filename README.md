@@ -136,6 +136,8 @@ Pages that require backend functionality currently contain placeholder handlers 
 
 Once the backend APIs are ready, these placeholders can be replaced with actual API calls without redesigning the interface.
 
+---
+
 ## Repository Purpose
 
 This repository is maintained by the frontend team for UI development.
